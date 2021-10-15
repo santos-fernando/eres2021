@@ -51,7 +51,7 @@ header:
   </tr>
 
   <tr align="center" bgcolor="#d3d3d3">
-  	<td bgcolor="#FFFFFF" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>  inscrição no evento + associação quadrimestral à SBC) </td>
+  	<td bgcolor="#d3d3d3" valign="middle">Estudante não associado ou com associação não vigente à SBC (Melhor opção: <b>COMBO QUADRIMESTRAL</b>  inscrição no evento + associação quadrimestral à SBC) </td>
     <td bgcolor="#d3d3d3">R$ 20,00</td>
   	<td bgcolor="#d3d3d3">R$ 25,00</td>
   	<td bgcolor="#d3d3d3">R$ 30,00</td>
