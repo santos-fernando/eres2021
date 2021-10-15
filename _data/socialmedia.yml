@@ -1,18 +1,23 @@
 ﻿- name: Facebook
-  url: https://www.facebook.com/eres.sbc
+  url: https://www.facebook.com/eres.sbc.br
   class: icon-facebook
-  title: "Siga a ERES no Facebook"
+  title: "ERES no Facebook"
 
 - name: Twitter
-  url: http://twitter.com/2020Eres
+  url: https://twitter.com/eres_sbc_br
   class: icon-twitter
-  title: "Siga a ERES no Twitter"
-  
-#- name: Instagram
-#  url: http://instagram.com/
-#  class: icon-instagram
-#  title: ""
+  title: "ERES no Twitter"
 
+- name: Instagram
+  url: https://www.instagram.com/eres_sbc_br
+  class: icon-instagram
+  title: "ERES no Instagram"
+
+- name: Linkedn
+  url: https://www.linkedin.com/company/eres-sbc-br
+  class:
+  title: "ERES no Linkedin"
+  
 #- name: Pinterest
 #  url: http://www.pinterest.com/
 #  class: icon-pinterest
