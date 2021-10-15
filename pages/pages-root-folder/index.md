@@ -22,19 +22,6 @@ header:
 
 <p>A Programação do ERES está sendo elaborada com palestras de profissionais da indústria, palestras da academia e submissões de artigos para serem apresentados em um fórum para graduação, um fórum de industria e um fórum para pós-graduação:</p>
 
-<h1>Realização</h1>
-
-<h1>Patrocínio Ouro</h1>
-
-<h1>Patrocínio Prata</h1>
-
-<h1>Patrocínio Bronze</h1>
-
-<div class="row t30">
-	<img src="{{ site.urlimg }}promocao_apoio_logos.png" alt="" align="center">
-</div><!-- /.row -->
-
-
 
 <!--
 widget1:
