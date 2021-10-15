@@ -1,6 +1,6 @@
 ﻿---
 layout: page-fullwidth
-title: "Fóruns de Graduação e Pós-Graduação / Trilha da Indústria"
+title: "Chamada de Trabalhos"
 #meta_title: "Dúvidas? Entre em contato conosco"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
@@ -9,8 +9,6 @@ header:
    image_fullwidth: banner_eres2021.png
 ---
 <hr>
-
-<h1>Chamada de Trabalhos</h1>
 
 <p>A ERES 2021 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em Engenharia de Software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria. </p>
 
