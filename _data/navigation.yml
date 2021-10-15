@@ -4,11 +4,12 @@
 
 - title: Chamada de Trabalhos
   url: "/chamada/"
-  side: left  
-  
+  side: left
+
 - title: Artigos Aceitos
   url: "/aceitos/"
-  side: left  
+  side: left
+
 
 #- title: "Palestras e Minicursos"
 - title: "Palestras"
@@ -30,7 +31,7 @@
 #    url: "/oficina_ensino/"
 #  - title: "Painel Currículo de Engenharia de Software"
 #    url: "/painel/"
-  
+
 
 - title: "Programação"
   url: "/programacao/"
@@ -46,12 +47,12 @@
   dropdown:
   - title: "Coordenação Geral"
     url: "/coordenacao_geral/"
-  - title: "Coordenadores de Eventos"
+  - title: "Coordenadores dos Fóruns"
     url: "/coordenacao_eventos/"
   - title: "Comitê Científico"
     url: "/comite_cientifico/"
-  - title: "Comitê Diretivo"
-    url: "/comite_diretivo/"
+#  - title: "Comitê Diretivo"
+#    url: "/comite_diretivo/"
 #  - title: "Voluntários"
 #    url: "/voluntarios/"
 
@@ -83,4 +84,3 @@
 - title: "Anais"
   url: "/anais/"
   side: right
-

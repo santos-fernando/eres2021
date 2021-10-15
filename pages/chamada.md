@@ -5,12 +5,14 @@ title: "Fóruns de Graduação e Pós-Graduação / Trilha da Indústria"
 subheadline: ""
 #teaser: "Entre em contato conosco pelo e-mail #eres2020.uem@gmail.com"
 permalink: "/chamada/"
+header:
+   image_fullwidth: banner_eres2021.png
 ---
 <hr>
 
 <h1>Submissão de Trabalhos:</h1>
 
-A ERES 2021 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em engenharia de software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria.
+A ERES 2020 incentiva a apresentação de trabalhos de pesquisa ou relatos de experiência originais em engenharia de software, desenvolvidos por acadêmicos de graduação, pós-graduação ou profissionais da indústria.
 
 Os artigos devem possuir no mínimo 6 páginas e no máximo 10 páginas para o Fórum de Graduação ou o Fórum de Pós-Graduação, e mínimo de 3 páginas e máximo de 6 páginas para a Trilha da Indústria (incluindo as respectivas referências) em língua portuguesa ou inglesa. Os artigos aceitos deverão obrigatoriamente serem apresentados em Sessão de forma Oral, caso contrário não farão parte dos anais da ERES 2020. Os anais da ERES 2020 serão publicados pelo Portal de Publicações e Conteúdo Digital da SBC (SOL).
 
