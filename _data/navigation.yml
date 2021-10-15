@@ -75,12 +75,12 @@
 
 - title: "Contato"
   url: "/contato/"
-  side: right
+  side: left
 
 - title: "Edições Anteriores"
   url: "/edicoes_anteriores/"
-  side: right
+  side: left
 
 - title: "Anais"
   url: "/anais/"
-  side: right
+  side: left
