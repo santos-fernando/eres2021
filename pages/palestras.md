@@ -1,6 +1,6 @@
 ﻿---
 layout: page-fullwidth
-title: "Palestrantes da ERES 2021"
+title: "Palestras da ERES 2021"
 subheadline: ""
 permalink: "/palestras/"
 header:
