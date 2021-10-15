@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'ERES 2020 - IV Escola Regional de Engenharia de Software'
+title: 'ERES 2021 - V Escola Regional de Engenharia de Software'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 #slogan: 'ERES 2020 - IV Escola Regional de Engenharia de Software'
@@ -25,7 +25,7 @@ author: Edson OliveiraJr, Fernando Santos
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://santos-fernando.github.io/eres2021'
+url: 'https://santos-fernando.github.io'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/santos-fernando/eres2021/feeling-responsive/
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://santos-fernando.github.io/images/'
+urlimg: 'https://santos-fernando.github.io/eres2021/images/'
 
 
 # Logo size is 600x80 pixels
