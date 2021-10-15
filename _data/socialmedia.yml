@@ -13,11 +13,11 @@
   class: icon-instagram
   title: "ERES no Instagram"
 
-- name: Linkedn
+- name: Linkedin
   url: https://www.linkedin.com/company/eres-sbc-br
-  class:
+  class: icon-linkedin
   title: "ERES no Linkedin"
-  
+
 #- name: Pinterest
 #  url: http://www.pinterest.com/
 #  class: icon-pinterest

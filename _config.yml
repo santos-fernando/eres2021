@@ -17,7 +17,7 @@ slogan: 'ERES 2021 - V Escola Regional de Engenharia de Software'
 description: 'A Escola Regional de Engenharia de Software (ERES) é um evento com o objetivo de promover e disseminar conhecimento e boas práticas de Engenharia de Software'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by Edson OliveiraJr, Fernando Santos with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -40,7 +40,7 @@ improve_content: https://github.com/santos-fernando/eres2021/feeling-responsive/
 #
 urlimg: 'https://santos-fernando.github.io/eres2021/images/'
 
-
+header: banner_eres2020.png
 # Logo size is 600x80 pixels
 #logo: "logo_eres_2020.png"
 #"logo.png"
