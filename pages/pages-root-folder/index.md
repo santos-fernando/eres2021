@@ -8,19 +8,31 @@ layout: page-fullwidth
 permalink: /index.html
 homepage: true
 header:
-  image_fullwidth: banner_eres2020.png
+  image_fullwidth: banner_eres2021.png
 ---
 
 
 <h1>Início</h1>
 
-<p>A <b>ESCOLA REGIONAL DE ENGENHARIA DE SOFTWARE (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A quinta edição da escola, a <b>ERES 2021</b>, irá ocorrer TOTALMENTE ONLINE, no período de 01 a 03 de dezembro de 2021.</p>
+<p>A <b>Escola Regional de Engenharia de Software (ERES)</b> é promovida anualmente pela Sociedade Brasileira de Computação (SBC). A quinta edição da escola, a <b>ERES 2021</b>, ocorrerá <b>totalmente online</b>, no período de 01 a 03 de dezembro de 2021.</p>
 
 <p>A ERES tem por objetivo disseminar o conhecimento e boas práticas em Engenharia de Software (ES), do ponto de vista profissional e acadêmico. A ERES 2020 é um espaço regional para que possam ser apresentados os resultados de pesquisas de graduação e pós-graduação e relatos de experiência na indústria. Além disso, possibilitará um ambiente natural para a discussão de abordagens no ensino-aprendizagem na ES nas instituições de ensino superior da Região Sul do Brasil.</p>
 
 <p>A realização da ERES 2021 oferecerá aos seus participantes atualizações do estado-da-arte da pesquisa científica na área de engenharia de software por meio da apresentação de palestras ministradas por pesquisadores renomados. O evento também intenciona oferecer uma atualização tecnológica por meio de minicursos apresentados por pesquisadores ou profissionais experientes e qualificados. Ainda, oficinas e um painel serão realizados. Dessa forma, este evento irá possibilitar a divulgação de conceitos atuais na área, além de divulgar o que se está pesquisando em engenharia de software na região sul, no país e no mundo, inspirando assim o gosto pela pesquisa científica aos participantes.</p>
 
-<p>A Programação do ERES está sendo elaborada com palestras de profissionais da indústria, palestras da academia e submissões de artigos para serem apresentados em um fórum para graduação, um fórum de industria e um fórum para pós-graduação:</p>
+<p>A Programação do ERES está sendo elaborada com palestras de profissionais da indústria, palestras da academia e submissões de artigos para serem apresentados em fóruns de graduação, pós-graduação, e indústria.</p>
+
+<p>A programação da ERES 2021 está sendo elaborada com palestras e submissões de artigos para serem apresentados em um Fórum de Graduação, um Fórum para Pós-Graduação e Trilha da Indústria.</p>
+
+<h3>Fórum para Graduação</h3>
+<p>O Fórum para Graduação da ERES 2021 é um espaço destinado para apresentação dos trabalhos de pesquisa ou relatos de experiência em Engenharia de Software, desenvolvidos por acadêmicos de graduação, principalmente das IES catarinenses, gaúchas e paranaenses. </p>
+
+<h3> Fórum para Pós-Graduação</h3>
+<p>O Fórum de Pós-Graduação da ERES 2021 é um espaço para apresentação de trabalhos de estudantes de pós-graduação, com o objetivo de incentivar a troca de experiências e divulgar pesquisas em andamento e/ou concluídas e resultados obtidos. Além da clareza do trabalho, relevância do tema, e qualidade da apresentação, o Comitê Científico da ERES 2021 avaliará também as contribuições científicas do trabalho.</p>
+
+<h3> Trilha da Indústria </h3>
+<p> A Trilha da Indústria de Software da ERES 2021 é um espaço para apresentação de trabalhos de profissionais do setor produtivo de T.I, ou de trabalhos acadêmicos resultantes de aplicações práticas na indústria de software e que apresentem real contribuição para o mercado de software. O objetivo é incentivar a troca de experiências entre profissionais da academia e indústria de software. Recomenda-se que ao menos um autor do artigo tenha sua afiliação associada a um dos setores da indústria de software. </p>
+
 
 
 <!--
