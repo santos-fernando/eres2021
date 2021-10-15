@@ -25,7 +25,7 @@ header:
 
 <div class="row t30">		
 	<div class="medium-4 columns">
-        <img src="{{ site.urlimg }}silveira.jpg" alt=""><br>
+        <img src="{{ site.urlimg }}silveira.gif" alt=""><br>
         <b>Prof. Dr. Maicon Bernardino</b><br>
 		<b>UNIPAMPA</b><br>
 		<a href="http://lattes.cnpq.br/0523166822363498" target="_blank">Currículo Lattes</a>    

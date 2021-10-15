@@ -8,17 +8,17 @@ header:
 ---
 
 <div class="row">
-	<div class="small-4 columns">
+	<div class="small-4 large-4 columns">
         <img src="{{ site.urlimg }}will.jpg" alt=""><br>
         <b>Williamson Silva</b> : Fórum de Graduação<br>
 		    <b>UNIPAMPA</b><br>
   </div>
-  <div class="small-4 columns">
+  <div class="small-4 large-4 columns">
         <img src="{{ site.urlimg }}aline.gif" alt=""><br>
         <b>Aline M. M. M. Amaral </b> : Fórum de Pós-Graduação<br>
 		    <b>UEM</b><br>
   </div>
-  <div class="small-4 columns">
+  <div class="small-4 large-4 columns">
         <img src="{{ site.urlimg }}pablo.jpg" alt=""><br>
         <b>Pablo Schoeffel</b> : Trilha da Indústria<br>
 		    <b>UDESC - Alto Vale</b><br>
